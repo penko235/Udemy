@@ -5,28 +5,28 @@ Build modern responsive websites & UIs with HTML5, CSS3 & Sass! Learn Flex & CSS
 
 # How Websites Work
 
-# HTML5 Semantic Layout
+HTML5 Semantic Layout
 
-# CSS Fundamentals
+CSS Fundamentals
 
-# Responsive Design With Media Queries
+Responsive Design With Media Queries
 
-#CSS Units - rem, em, vh, vw, etc
+CSS Units - rem, em, vh, vw, etc
 
-#Flexbox
+Flexbox
 
-#CSS Grid
+CSS Grid
 
-#Animation with Keyframes & Transitions
+Animation with Keyframes & Transitions
 
-#CSS Variables
+CSS Variables
 
 # Learning Sass
 Sass Pre-compiler with portfolio project
 
-#Full Projects & Mini Projects
+# Full Projects & Mini Projects
 
-#Website Deployment to Shared Hosting & Netlify With Git
+Website Deployment to Shared Hosting & Netlify With Git
 
 
 # What you’ll learn
