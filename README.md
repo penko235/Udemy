@@ -3,17 +3,17 @@
 Build modern responsive websites & UIs with HTML5, CSS3 & Sass! Learn Flex & CSS Grid / Lectures: 129
 
 
-#How Websites Work
+# How Websites Work
 
-#HTML5 Semantic Layout
+# HTML5 Semantic Layout
 
-#CSS Fundamentals
+# CSS Fundamentals
 
-#Responsive Design With Media Queries
+# Responsive Design With Media Queries
 
-#CSS Units - rem, em, vh, vw, etc
+# CSS Units - rem, em, vh, vw, etc
 
-#Flexbox
+# Flexbox
 
 #CSS Grid
 
