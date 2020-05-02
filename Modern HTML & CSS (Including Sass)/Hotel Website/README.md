@@ -1,1 +1,6 @@
-![photo-1](./https://github.com/penko235/Udemy/blob/master/Modern%20HTML%20%26%20CSS%20(Including%20Sass)/Hotel%20Website/img/photo-1.jpg)
+![img-1](./img/img-1.jpg)
+![img-2](./img/img-2.jpg)
+![img-3](./img/img-3.jpg)
+![img-4](./img/img-4.jpg)
+![img-5](./img/img-5.jpg)
+![img-6](./img/img-6.jpg)
